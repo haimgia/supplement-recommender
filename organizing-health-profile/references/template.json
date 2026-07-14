@@ -1,0 +1,34 @@
+{
+  "user_id": "12345",
+  "name": "Mary Jane",
+  "demographics": {
+    "age": 42,
+    "sex": "Female",
+    "height_cm": 165,
+    "weight_kg": 68
+  },
+  "health_goals": [
+    "Improve sleep",
+    "Increase energy"
+  ],
+  "medical_conditions": [
+    "Type 2 Diabetes"
+  ],
+  "current_medications": [
+    {
+      "name": "Metformin",
+      "dosage": "1000 mg",
+      "frequency": "Twice daily",
+      "reason": "Type 2 Diabetes"
+    }
+  ],
+  "current_supplements": [],
+  "diet": {
+    "type": "Vegetarian"
+  },
+  "lifestyle": {
+    "activity_level": "Moderately Active",
+    "exercise_frequency_per_week": 4,
+    "sleep_hours": 6.0
+  }
+}
